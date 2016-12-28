@@ -1,0 +1,4 @@
+#编译目录与IDE配置文件
+*.log
+#工程中的配置
+/node_modules
